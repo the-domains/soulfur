@@ -1,0 +1,28 @@
+name: soulfur
+favicon: null
+layout_spectrum: 0.4076221762225032
+typography_spectrum: 0.2412908230908215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15523320017382503
+  lightness: 0.5423297649249434
+  saturation: 0.0006549004465341568
+  rhythmicContrast: 0.8618182828649879
+purpose: []
